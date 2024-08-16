@@ -26,8 +26,8 @@ In the first control startegy we use PID for longitudinal Controller and Pure Pu
 ## 1 . Pure Pursuit Control (PPC)
 ![image](https://github.com/user-attachments/assets/94c646bb-3699-40fe-9415-c21d6a307f0e)
 ![image](https://github.com/user-attachments/assets/1b7ce7fc-b227-4125-8f1c-9c2dedda21c2)
-Pure Pursuit is a geometrical type controller. Its working is based purely on geometry.
-The algorithm works as shown in the figure below.
+
+Pure Pursuit is a geometrical type controller. Its working is based purely on geometry.The algorithm works as shown in the figure below.
 ![image](https://github.com/user-attachments/assets/403f9893-5477-43d8-a309-f4d3ed3ec3c5)
 
 
