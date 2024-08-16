@@ -24,13 +24,13 @@ We have designed two control strategies namely,
    
 
 
-## 1 . Pure Pursuit Control (PPC)  :     [Result_link]: https://youtu.be/hC2OsCH2b6E
+## 1 . Pure Pursuit Control (PPC)  :     [Result]: https://youtu.be/hC2OsCH2b6E
 
 
 Pure Pursuit is a geometrical type controller. Its working is based purely on geometry.
 ![image](https://github.com/user-attachments/assets/69a804b8-0b14-467c-bdb2-af5fd310ce02)
 
-## 2. Model Predictive Control (MPC):     [Result_link]: https://youtu.be/PDJeTByIZtc
+## 2. Model Predictive Control (MPC):     [Result]: https://youtu.be/PDJeTByIZtc
 
 Non-linear optimization method was used for MPC. 
 
