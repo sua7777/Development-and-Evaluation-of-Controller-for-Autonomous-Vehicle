@@ -37,7 +37,8 @@ Pure Pursuit is a geometrical type controller. Its working is based purely on ge
 
 Non-linear optimization method was used for MPC. 
 
-![image](https://github.com/user-attachments/assets/1a10b839-9298-49a2-a9c2-fcdcc8bbbc8d)
+![image](https://github.com/user-attachments/assets/29867def-899f-4f80-a132-525b466db679)
+
 
 ![image](https://github.com/user-attachments/assets/b054d1d7-880d-44a0-b2b0-f31474c2306c)
 
