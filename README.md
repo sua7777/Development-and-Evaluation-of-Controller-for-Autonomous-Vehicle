@@ -32,10 +32,13 @@ Pure Pursuit is a geometrical type controller. Its working is based purely on ge
 
 ## 2. Model Predictive Control (MPC):     [Result_link]: https://youtu.be/PDJeTByIZtc
 
+Non-linear optimization method was used for MPC. 
+
 ![image](https://github.com/user-attachments/assets/1a10b839-9298-49a2-a9c2-fcdcc8bbbc8d)
 
-![image](https://github.com/user-attachments/assets/2702ac59-e200-42e7-95f0-a2b01a03352d)
 ![image](https://github.com/user-attachments/assets/b054d1d7-880d-44a0-b2b0-f31474c2306c)
+![image](https://github.com/user-attachments/assets/6311db15-8ffc-4143-a8a8-415a86d33b60)
+
 
 
 
