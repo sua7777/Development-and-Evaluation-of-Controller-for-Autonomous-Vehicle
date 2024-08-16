@@ -35,6 +35,8 @@ Pure Pursuit is a geometrical type controller. Its working is based purely on ge
 ![image](https://github.com/user-attachments/assets/1a10b839-9298-49a2-a9c2-fcdcc8bbbc8d)
 
 ![image](https://github.com/user-attachments/assets/2702ac59-e200-42e7-95f0-a2b01a03352d)
+![image](https://github.com/user-attachments/assets/b054d1d7-880d-44a0-b2b0-f31474c2306c)
+
 
 
 
