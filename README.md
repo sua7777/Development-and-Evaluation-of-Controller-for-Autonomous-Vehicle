@@ -1,2 +1,2 @@
-# developement and Evaluation of Controller for Autonomous Driving
+# Developement and Evaluation of Controller for Autonomous Driving
 
