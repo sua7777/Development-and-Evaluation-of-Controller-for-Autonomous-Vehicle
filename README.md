@@ -21,7 +21,6 @@ We have designed two control strategies namely,
 2) Model Predictive Control (MPC)
    
 In the first control startegy we use PID for longitudinal Controller and Pure Pursuit as lateral control as Follows,
-![image](https://github.com/user-attachments/assets/71fc4594-93b8-4e15-bf7f-1b2fa6210555)
 
 ## 1 . Pure Pursuit Control (PPC)
 ![image](https://github.com/user-attachments/assets/94c646bb-3699-40fe-9415-c21d6a307f0e)
