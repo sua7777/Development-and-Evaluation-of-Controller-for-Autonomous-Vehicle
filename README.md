@@ -28,7 +28,8 @@ We have designed two control strategies namely,
 
 
 Pure Pursuit is a geometrical type controller. Its working is based purely on geometry.
-![image](https://github.com/user-attachments/assets/8f881615-d1c5-497a-a66f-14e564a012f2)
+![image](https://github.com/user-attachments/assets/5eb3e452-a6f8-408f-8533-dadbb9538d67)
+
 
 
 ## 2. Model Predictive Control (MPC):         [Result]: https://youtu.be/PDJeTByIZtc
