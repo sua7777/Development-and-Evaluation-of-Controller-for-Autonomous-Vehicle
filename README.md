@@ -19,14 +19,17 @@ Lateral Control :
 We have designed two control strategies namely, 
 1) PID + Pure Pursuit Control
    > In the first control startegy we use PID for longitudinal Controller and Pure Pursuit as lateral control.
-   > 
+   
 3) Model Predictive Control (MPC)
    
 
 
-## 1 . Pure Pursuit Control (PPC)
-Pure Pursuit is a geometrical type controller. Its working is based purely on geometry.The algorithm works as shown in the figure below.
+## 1 . Pure Pursuit Control (PPC)  : 
+##[Result_link]: https://youtu.be/hC2OsCH2b6E
+Pure Pursuit is a geometrical type controller. Its working is based purely on geometry.
+
 ![image](https://github.com/user-attachments/assets/69a804b8-0b14-467c-bdb2-af5fd310ce02)
+
 
 
 
